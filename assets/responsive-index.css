@@ -1,1 +1,235 @@
-@media(max-width:575.98px){.add-server-mb{display:none}.header-logout{display:none}.friendly-image img{max-width:85vw}.nuke-image img{max-width:85vw}.raid-image img{max-width:85vw}.automod-image img{max-width:85vw}}@media(max-width:767.98px){.btn{padding:5px 10px;font-size:16px}.header-avatar{display:none}.header-avatar-img-mb{display:block}.header-content{padding-top:100px;padding-bottom:40px}.header-content-container{display:flex;flex-direction:column;gap:50px;text-align:center}.header-content-name-bot{font-size:36px}.header-content-description{max-width:500px;font-size:16px}.header-content-btn{gap:10px;justify-content:center}.header-content-image{width:400px}.snowflakes{display:none}.friendly-container{padding:0 20px;display:flex;flex-direction:column-reverse;text-align:center;gap:40px}.friendly-content-header{font-size:36px;display:block}.friendly-content-header::after{width:100px;left:50%}.friendly-content-description{font-size:16px}.friendly-image img{max-width:85vw;margin:0 auto}.nuke-container{padding:0 20px;display:flex;flex-direction:column;text-align:center;gap:40px}.nuke-content-header{font-size:36px;display:block}.nuke-content-header::after{width:100px;left:50%}.nuke-content-description{font-size:16px}.nuke-content-outstanding{font-size:16px;text-align:center;align-items:center}.nuke-image img{max-width:85vw;margin:0 auto}.raid-container{padding:0 20px;display:flex;flex-direction:column-reverse;text-align:center;gap:40px}.raid-content-header{font-size:36px;display:block}.raid-content-header::after{width:100px;left:50%}.raid-content-description{font-size:16px}.raid-image img{max-width:85vw;margin:0 auto}.automod-container{padding:0 20px;display:flex;flex-direction:column;text-align:center;gap:40px}.automod-content-header{font-size:36px;display:block}.automod-content-header::after{width:100px;left:50%}.automod-content-description{font-size:16px}.automod-image img{max-width:85vw;margin:0 auto}.footer-copyright-text{font-size:12px}}@media(max-width:991.98px){.header-left{display:flex;flex-direction:row-reverse}.menu{display:none}.menu-toggle{display:block}.header-content-container{padding:0 20px}.footer{padding:0 20px}.footer-right{gap:50px}.footer-menu{gap:10px}.footer-item{font-size:16px}.footer-copyright-text{font-size:12px}}@media(max-width:1199.98px){}@media(max-width:1399.98px){}
+@media(max-width:575.98px) {
+    .add-server-mb {
+        display: none
+    }
+
+    .header-logout {
+        display: none
+    }
+
+    .friendly-image img {
+        max-width: 85vw
+    }
+
+    .nuke-image img {
+        max-width: 85vw
+    }
+
+    .raid-image img {
+        max-width: 85vw
+    }
+
+    .automod-image img {
+        max-width: 85vw
+    }
+}
+
+@media(max-width:767.98px) {
+    .btn {
+        padding: 5px 10px;
+        font-size: 16px
+    }
+
+    .header-avatar {
+        display: none
+    }
+
+    .header-avatar-img-mb {
+        display: block
+    }
+
+    .header-content {
+        padding-top: 100px;
+        padding-bottom: 40px
+    }
+
+    .header-content-container {
+        display: flex;
+        flex-direction: column;
+        gap: 50px;
+        text-align: center
+    }
+
+    .header-content-name-bot {
+        font-size: 36px
+    }
+
+    .header-content-description {
+        max-width: 500px;
+        font-size: 16px
+    }
+
+    .header-content-btn {
+        gap: 10px;
+        justify-content: center
+    }
+
+    .header-content-image {
+        width: 400px
+    }
+
+    .snowflakes {
+        display: none
+    }
+
+    .friendly-container {
+        padding: 0 20px;
+        display: flex;
+        flex-direction: column-reverse;
+        text-align: center;
+        gap: 40px
+    }
+
+    .friendly-content-header {
+        font-size: 36px;
+        display: block
+    }
+
+    .friendly-content-header::after {
+        width: 100px;
+        left: 50%
+    }
+
+    .friendly-content-description {
+        font-size: 16px
+    }
+
+    .friendly-image img {
+        max-width: 85vw;
+        margin: 0 auto
+    }
+
+    .nuke-container {
+        padding: 0 20px;
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        gap: 40px
+    }
+
+    .nuke-content-header {
+        font-size: 36px;
+        display: block
+    }
+
+    .nuke-content-header::after {
+        width: 100px;
+        left: 50%
+    }
+
+    .nuke-content-description {
+        font-size: 16px
+    }
+
+    .nuke-content-outstanding {
+        font-size: 16px;
+        text-align: center;
+        align-items: center
+    }
+
+    .nuke-image img {
+        max-width: 85vw;
+        margin: 0 auto
+    }
+
+    .raid-container {
+        padding: 0 20px;
+        display: flex;
+        flex-direction: column-reverse;
+        text-align: center;
+        gap: 40px
+    }
+
+    .raid-content-header {
+        font-size: 36px;
+        display: block
+    }
+
+    .raid-content-header::after {
+        width: 100px;
+        left: 50%
+    }
+
+    .raid-content-description {
+        font-size: 16px
+    }
+
+    .raid-image img {
+        max-width: 85vw;
+        margin: 0 auto
+    }
+
+    .automod-container {
+        padding: 0 20px;
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        gap: 40px
+    }
+
+    .automod-content-header {
+        font-size: 36px;
+        display: block
+    }
+
+    .automod-content-header::after {
+        width: 100px;
+        left: 50%
+    }
+
+    .automod-content-description {
+        font-size: 16px
+    }
+
+    .automod-image img {
+        max-width: 85vw;
+        margin: 0 auto
+    }
+
+    .footer-copyright-text {
+        font-size: 12px
+    }
+}
+
+@media(max-width:991.98px) {
+    .header-left {
+        display: flex;
+        flex-direction: row-reverse
+    }
+
+    .menu {
+        display: none
+    }
+
+    .menu-toggle {
+        display: block
+    }
+
+    .header-content-container {
+        padding: 0 20px
+    }
+
+    .footer {
+        padding: 0 20px
+    }
+
+    .footer-right {
+        gap: 50px
+    }
+
+    .footer-menu {
+        gap: 10px
+    }
+
+    .footer-item {
+        font-size: 16px
+    }
+
+    .footer-copyright-text {
+        font-size: 12px
+    }
+}
+
+@media(max-width:1199.98px) {}
+
+@media(max-width:1399.98px) {}
